@@ -42,4 +42,4 @@ Postdoctoral research
 ======
 As a quantitative geneticist at Rothamsted Research, I have been engaged in many projects as leading author/investigator. Briefly, I have four ongoing projects, including (i) developing robust statistical and prediction strategies using the data from the Field Scanalyzer phenotyping platform (in collaboration with Malcolm Hawkesford) (Lyra et al. 2020), (ii) implementing gene-based models using exome-capture data of trehalose biosynthetic pathway genes (in collaboration with Matthew Paul), (iii) integrating genomic and metagenomic data for trait dissection (FAPESP-BBSRC Pump-Priming grant - in collaboration with Tim Mauchline), and iv) developing a quantitative genetics pipeline for the wheat Cadenza TILLING population (in collaboration with Andy Phillips and Cristobal Uauy-JIC).
 
-<img src="https://github.com/DaniloLyra/danilolyra.github.io/blob/master/images/image-alignment-580x300.jpg" alt="hi" class="inline"/>
+<img src="https://github.com/DaniloLyra/danilolyra.github.io/blob/master/images/editing-talk.png" alt="hi" class="inline"/>
