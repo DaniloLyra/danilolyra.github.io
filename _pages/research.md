@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 HOT TOPICS RESEARCH
----
 •	Combining high-throughput plant phenotyping and molecular genetics for trait dissection in wheat,
 •	Gene-based mapping of trehalose biosynthetic pathway genes for yield-related traits in wheat,
 •	Development of a quantitative genetics pipeline for the wheat Cadenza TILLING population,
