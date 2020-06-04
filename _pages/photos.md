@@ -1,7 +1,8 @@
 ---
-title: "Lab Alogamas"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/labalogamas.jpg'>"
-collection: photos
+layout: archive
+title: "Photos"
+permalink: /photos/
+author_profile: true
 ---
 
 <img src="https://github.com/DaniloLyra/danilolyra.github.io/blob/master/images/labalogamas.jpg" width="600" height="250">
