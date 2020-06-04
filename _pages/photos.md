@@ -4,6 +4,6 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/lab
 collection: photos
 ---
 
-<img src="https://github.com/DaniloLyra/danilolyra.github.io/blob/master/images/labalogamas.jpg" width="400" height="300">
+<img src="https://github.com/DaniloLyra/danilolyra.github.io/blob/master/images/labalogamas.jpg" width="600" height="250">
 
 Description: Maize trial
