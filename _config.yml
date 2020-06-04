@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Danilo Lyra"
   avatar           : "profile.png"
-  bio              : "Quantitative/Statistical Geneticist at Rothamsted Research"
-  location         : "Location"
+  bio              : "Quantitative/Statistical Geneticist at Rothamsted Research (UK)"
+  location         : "Harpenden, United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jUZFWpkAAAAJ&hl=pt-BR&oi=ao"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "danilo-hottis-lyra-849488106/"
+  publons          : "https://publons.com/researcher/1718388/danilo-hottis-lyra/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/watch?v=ZE_Hw6npYz4&t=3s"
   wikipedia        :
 
 
