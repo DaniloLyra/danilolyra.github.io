@@ -4,4 +4,6 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/lab
 collection: photos
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src="https://github.com/DaniloLyra/danilolyra.github.io/blob/master/images/labalogamas.jpg" width="200" height="60">
+
+Description: Maize trial
