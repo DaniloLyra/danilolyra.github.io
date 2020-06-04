@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Danilo Lyra"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Danilo Lyra"
 description              : &description "personal description"
 url                      : https://danilolyra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Danilo Lyra"
   avatar           : "profile.png"
-  bio              : "Quantitative/Statistical Geneticist"
+  bio              : "Quantitative/Statistical Geneticist at Rothamsted Research"
   location         : "Location"
   employer         :
   pubmed           : 
