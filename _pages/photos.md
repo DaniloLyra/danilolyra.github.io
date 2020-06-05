@@ -4,7 +4,7 @@ permalink: /photos/
 author_profile: true
 ---
 
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/UK1.jpg" width="400" height="250">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/UK1.jpg" width="700" height="400">
 **Fig. 1. Description: Maize trial
 
 
