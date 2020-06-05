@@ -42,4 +42,12 @@ author_profile: true
 
 <img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/MZ3.jpg" width="600" height="300">
 
-**Fig. 9. Maize Field Trial - ESALQ/USP/Brazil (2018)
+**Fig. 10. Maize Field Trial - ESALQ/USP/Brazil (2018)
+
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/Pot1.JPG" width="600" height="300">
+
+**Fig. 11. Potato Team - UFLA/Brazil (2013)
+
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/Pot2.JPG" width="600" height="300">
+
+**Fig. 12. Potato Field Trial - Formiga/MG/Brazil (2012)
