@@ -70,6 +70,37 @@ Most relevant training courses attended
 * [Analysis of Experiments using ASReml-R](https://www.biostatsgen.com/uploads/3/8/9/6/38964623/alldiap_august2014.pdf). Tutor: Salvador Gezan (University of Florida). In: University of Sao Paulo, Brazil / 16h / 2015.1
 * [Bayes Biostatistics](http://www.esalq.usp.br/departamentos/lce/arquivos/aulas/2014/WORKSHOP_ON_BAYESIAN_BIOSTATISTICS/Bayesian_course_main_part%201.pdf). Tutor: Emmanuel Lesaffre (University Hasselt). In: University of Sao Paulo, Brazil / 45h / 2014
 
+Main Ad Hoc Reviewer
+======
+- Agronomy (Topic Editor)
+- Plos One
+- Molecular Breeding
+- Crop Science
+- Brazilian Journal of Agricultural Research
+- Scientia Agricola
+
+Programming skills
+======
+- Proficient user of statistical programs (R, Linux, ASReml-R, PLINK, GCTA)
+
+Main recent conference attended with poster presentation
+======
+- PAG XXVII - Plant & Animal Genome Conference, San Diego, CA, USA. 2019
+- XXIVth EUCARPIA Maize and Sorghum Conference, Freising, Germany. 2019
+- 7th Channel Network Conference, Harpenden, UK. 2019
+- 100 years of quantitative genetics theory and its applications: celebrating the centenary of Fisher 1918, Edinburgh. 2018
+- 9º Brazilian Plant Breeding Conference, Foz do Iguaçu, PR, Brazil. 2017
+- 58th Annual Maize Genetics Conference, Jacksonville, Florida, USA. 2016
+- 5th International Conference on Quantitative Genetics, Madison, Wisconsin, USA. 2016
+- 70th Corn & Sorghum Seed Research Conference, Chicago, Illinois, USA. 2015
+- Crop Science Society of America, Annual Meeting, Minneapolis, Minnesota, USA. 2015
+
+Further relevant information
+======
+- Member of the Brazilian Society of Plant Breeding and the Genetics Society (UK)
+- Best Research Award - 1st Place - Congress of Scientific Initiation, 2011
+- Contributed as a collaborator to the approval of the BBSRC-FAPESP pump-priming grant (UK), 2018
+
 Skills
 ======
 * See Intro tab
