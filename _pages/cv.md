@@ -17,10 +17,16 @@ Personal Information
 Education
 ======
 * 2018-present - Rothamsted Research, Harpenden, United Kingdom
-  - Post-Doctoral Research Scientist ● Statistical Genomics
-
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+  * Post-Doctoral Research Scientist ● Statistical Genomics
+* 2014-2017 - Luiz de Queiroz College of Agriculture / University of São Paulo (ESALQ-USP), Piracicaba, Brazil
+  * Doctor's (Ph.D.) Degree ● Genetics and Plant Breeding
+  * Thesis title: Influence of multi-trait modeling, dominance, and population structure in genomic prediction of maize hybrids
+* 2012-2013 - Federal University of Lavras (UFLA), Brazil
+  * Master’s (M.S) Degree ● Genetics and Plant Breeding
+  * Dissertation title: Association of tuber initiation and duration of the vegetative cycle with heat tolerance in potato
+* 2008-2011 - State University of Southwestern Bahia (UESB), Jequie, Brazil
+  * Bachelor’s (B.S) Degree ● Plant Sciences (with emphasis on Genetics)
+  * Bachelor title: Genetic studies in Jatropha ribifolia: germplasm conservation and improvement of populations in Bahia State, Brazil
 
 Work experience
 ======
