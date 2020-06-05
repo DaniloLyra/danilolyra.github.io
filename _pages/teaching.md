@@ -6,7 +6,7 @@ author_profile: true
 
 ## TEACHING EXPERIENCE
 
-- 2017 - Pedagogical/teaching training course (Plant Sciences), 1000h, Integrated Colleges of Ariquemes (FIAR), Brazil
+- 2017 - Pedagogical/teaching training course (Plant Sciences), 1000h, Integrated Colleges of Ariquemes (FIAR), Brazil. Title: Cellular Model Applied in Teaching-Learning.
 -	2015 - Teaching Tutor of Cell Biology (Agronomy course), 120h, University of Sao Paulo, Brazil
 -	2013 - Teaching Tutor of Genetics (Nutrition course), 120h, Federal University of Lavras, Brazil
 -	2011 - Teacher of Biology in Public High School, 356h, Bahia, Brazil
