@@ -9,9 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Personal Information
+======
+- Male, Brazilian (also have Italian Citizenship), Married (no kids), Birth: 07/03/1989.
+- I like playing sports (football, volley, and basketball), running, and outdoor activities.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* 2018-present - Rothamsted Research, Harpenden, United Kingdom
+  - Post-Doctoral Research Scientist ● Statistical Genomics
+
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
