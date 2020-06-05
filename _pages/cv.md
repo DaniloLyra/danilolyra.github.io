@@ -36,22 +36,17 @@ Research experience
   * Research projects: see ‘Hot Topics Research’
 
 * 2017 ● Training Research, Collaboration ● CIMMYT, Texcoco, Mexico
-  * Manager: Jose Crossa 
+  * Manager: [Jose Crossa](https://scholar.google.com.mx/citations?user=MsMBKCUAAAAJ&hl=en) 
   * Key responsibilities: one-month training. Technical visits to field trials. Molecular data analyzes using genotype × environment interaction models
   * Research project: Genomic selection for nitrogen and drought stress in maize and wheat
-  
-* 2017 ● Training Research, Collaboration ● CIMMYT, Texcoco, Mexico
-  * Manager: Jose Crossa 
-  * Key responsibilities: one-month training. Technical visits to field trials. Molecular data analyzes using genotype × environment interaction models
-  * Research project: Genomic selection for nitrogen and drought stress in maize and wheat
-  
+    
 * 2015-2016 ● Training Research, Collaboration ● Iowa State University, Ames, United States
-  * Manager: Jianming Yu  
+  * Manager: [Jianming Yu](https://www.ipb.iastate.edu/people/jianming-yu)  
   * Key responsibilities: ten months training. Evaluation of sorghum and maize field trials. Analyses of population genomics (fineSTRUCTURE, ADMIXTURE, MG-GBLUP, rrBLUP, linkage disequilibrium)
   * Research project: Genomic selection for structured population in maize
   
 * 2014-2017 ● Ph.D. Research ● Maize Breeding and Genomics
-  * Manager: Roberto Fritsche-Neto   
+  * Manager: [Roberto Fritsche-Neto](http://www.genetica.esalq.usp.br/alogamas/index2.html)   
   * Key responsibilities: evaluation of breeding trials (i.e. double haploids, hybrids, and inbred lines), selection methods for nitrogen use efficiency (NUE), application of genomic selection and genome wide association studies (GWAS) for NUE phenotypes
   * Research project: Accuracy of nonadditive genomic selection models to predict tropical maize single-crosses
   
@@ -67,12 +62,12 @@ Research experience
   
 Most relevant training courses attended
 ======
-* Bioinformatics for Plant Biology. In: European Bioinformatics Institute, EMBL (Cambridge, UK) / 32h / 2018
+* [Bioinformatics for Plant Biology](https://www.ebi.ac.uk/training/events/2018/bioinformatics-plant-biology). In: European Bioinformatics Institute, EMBL (Cambridge, UK) / 32h / 2018
 * Tools for Analysis of GWAS in Crops. In: Instituto Nacional de Investigación Agropecuaria, INIA, Uruguay / 80h / 2017
-* Modeling G × E interaction in Genomic Prediction Analysis. Tutor: Jose Crossa (CIMMYT). In: University of Sao Paulo, Brazil / 8h / 2017
-* Advanced Plant Breeding (Class). In: Iowa State University (ISU, USA). Tutor: Dr. Jianming Yu / 64h / 2016
+* [Modeling G × E interaction in Genomic Prediction Analysis](https://www.g3journal.org/content/8/9/3039.article-info). Tutor: Jose Crossa (CIMMYT). In: University of Sao Paulo, Brazil / 8h / 2017
+* AGRON 621 - Advanced Plant Breeding (Class). In: Iowa State University (ISU, USA). Tutor: Dr. Jianming Yu / 64h / 2016
 * Population and Quantitative Genetics for Breeding (Class). In: Iowa State University (ISU, USA). Tutor: Dr. Jack C M Dekkers / 64h / 2015.2
-* Analysis of Experiments using ASReml-R. Tutor: Salvador Gezan (University of Florida). In: University of Sao Paulo, Brazil / 16h / 2015.1
+* [Analysis of Experiments using ASReml-R](https://www.biostatsgen.com/uploads/3/8/9/6/38964623/alldiap_august2014.pdf). Tutor: Salvador Gezan (University of Florida). In: University of Sao Paulo, Brazil / 16h / 2015.1
 * [Bayes Biostatistics](http://www.esalq.usp.br/departamentos/lce/arquivos/aulas/2014/WORKSHOP_ON_BAYESIAN_BIOSTATISTICS/Bayesian_course_main_part%201.pdf). Tutor: Emmanuel Lesaffre (University Hasselt). In: University of Sao Paulo, Brazil / 45h / 2014
 
 Skills
