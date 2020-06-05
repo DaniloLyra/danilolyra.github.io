@@ -28,45 +28,63 @@ Education
   * Bachelor’s (B.S) Degree ● Plant Sciences (with emphasis on Genetics)
   * Bachelor title: Genetic studies in Jatropha ribifolia: germplasm conservation and improvement of populations in Bahia State, Brazil
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-present ● Post-Doctoral Research ● Wheat Genomics
+  * Manager: Gancho Slavov 
+  * Key responsibilities: statistical and quantitative genomics data analysis
+  * Research projects: see ‘Hot Topics Research’
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 ● Training Research, Collaboration ● CIMMYT, Texcoco, Mexico
+  * Manager: Jose Crossa 
+  * Key responsibilities: one-month training. Technical visits to field trials. Molecular data analyzes using genotype × environment interaction models
+  * Research project: Genomic selection for nitrogen and drought stress in maize and wheat
   
+* 2017 ● Training Research, Collaboration ● CIMMYT, Texcoco, Mexico
+  * Manager: Jose Crossa 
+  * Key responsibilities: one-month training. Technical visits to field trials. Molecular data analyzes using genotype × environment interaction models
+  * Research project: Genomic selection for nitrogen and drought stress in maize and wheat
+  
+* 2015-2016 ● Training Research, Collaboration ● Iowa State University, Ames, United States
+  * Manager: Jianming Yu  
+  * Key responsibilities: ten months training. Evaluation of sorghum and maize field trials. Analyses of population genomics (fineSTRUCTURE, ADMIXTURE, MG-GBLUP, rrBLUP, linkage disequilibrium)
+  * Research project: Genomic selection for structured population in maize
+  
+* 2014-2017 ● Ph.D. Research ● Maize Breeding and Genomics
+  * Manager: Roberto Fritsche-Neto   
+  * Key responsibilities: evaluation of breeding trials (i.e. double haploids, hybrids, and inbred lines), selection methods for nitrogen use efficiency (NUE), application of genomic selection and genome wide association studies (GWAS) for NUE phenotypes
+  * Research project: Accuracy of nonadditive genomic selection models to predict tropical maize single-crosses
+  
+* M.S. Research ● Potato Breeding
+  * Manager: César Augusto Brasil Pereira Pinto   
+  * Key responsibilities: field testing (i.e. multi-environment trials), recurrent selection and methods for heat tolerance, germplasm characterization, and disease resistance breeding.
+  * Research project: Heat tolerance in potato: physiological characterization of clones
+  
+* Undergraduate Research ● Aromatic & Medicinal Breeding
+  * Manager: Cláudio Lúcio Fernandes Amaral  
+  * Key responsibilities: evaluation of breeding systems, pollen analysis, and germplasm collection and characterization
+  * Research projects: (i) on-farm conservation, participatory plant breeding, and ethnobotanical studies in the Brazilian semi-arid (Caatinga) region, and (ii) aromatic and medicinal breeding (focus on Ocimum L. and Jatropha L.)
+  
+Most relevant training courses attended
+======
+* Bioinformatics for Plant Biology. In: European Bioinformatics Institute, EMBL (Cambridge, UK) / 32h / 2018
+* Tools for Analysis of GWAS in Crops. In: Instituto Nacional de Investigación Agropecuaria, INIA, Uruguay / 80h / 2017
+* Modeling G × E interaction in Genomic Prediction Analysis. Tutor: Jose Crossa (CIMMYT). In: University of Sao Paulo, Brazil / 8h / 2017
+* Advanced Plant Breeding (Class). In: Iowa State University (ISU, USA). Tutor: Dr. Jianming Yu / 64h / 2016
+* Population and Quantitative Genetics for Breeding (Class). In: Iowa State University (ISU, USA). Tutor: Dr. Jack C M Dekkers / 64h / 2015.2
+* Analysis of Experiments using ASReml-R. Tutor: Salvador Gezan (University of Florida). In: University of Sao Paulo, Brazil / 16h / 2015.1
+* [Bayes Biostatistics](http://www.esalq.usp.br/departamentos/lce/arquivos/aulas/2014/WORKSHOP_ON_BAYESIAN_BIOSTATISTICS/Bayesian_course_main_part%201.pdf). Tutor: Emmanuel Lesaffre (University Hasselt). In: University of Sao Paulo, Brazil / 45h / 2014
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* See Intro tab
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* See Publications tab
+   
+Teaching experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* See Teaching tab
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
