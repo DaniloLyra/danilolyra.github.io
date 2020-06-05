@@ -4,7 +4,7 @@ permalink: /photos/
 author_profile: true
 ---
 
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/UK1.jpg" width="600" height="300">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/UK1.jpg" width="700" height="300">
 
 **Fig. 1. Rothamsted Research - Field Scanalyzer 
 
@@ -28,4 +28,18 @@ author_profile: true
 
 **Fig. 6. Teosinte (Z. mays ssp. parviglumis), a group of wild relatives of maize. Maize germplasm collection at CIMMYT/Mexico (2017)
 
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/MZ1.jpg" width="600" height="300">
 
+**Fig. 7. Teaching Agronomy students about maize breeding system - ESALQ/USP/Brazil (2018)
+
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/MZ1.jpg" width="600" height="300">
+
+**Fig. 8. Teaching Agronomy students about maize breeding system - ESALQ/USP/Brazil (2018)
+
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/MZ2.jpg" width="600" height="300">
+
+**Fig. 9. Allogamous Team - Maize Field Trial - ESALQ/USP/Brazil (2015)
+
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/MZ3.jpg" width="600" height="300">
+
+**Fig. 9. Maize Field Trial - ESALQ/USP/Brazil (2018)
