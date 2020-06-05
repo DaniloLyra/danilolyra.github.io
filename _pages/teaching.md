@@ -23,9 +23,13 @@ author_profile: true
 
 ## TRAINING COURSES DELIVERED
 
-- SLAVOV, G. **LYRA, D.H.** Training course: ‘Populations Genomics, GWAS, and Genomic Prediction’. In: Rothamsted Research, UK, 2018 (2020 Edition in August)
+- **LYRA, D.H.** Training course: 'Genetic Data Analysis and GWAS'. In: Bioinformatics Training Courses, Rothamsted Research, UK, 2020 (2020 Edition in August)
+- SLAVOV, G. **LYRA, D.H.** Training course: ‘Populations Genomics, GWAS, and Genomic Prediction’. In: Bioinformatics Training Courses, Rothamsted Research, UK, 2018
 
 ## STEERING COMMITTEE - CONFERENCES
 
-- I International Meeting on Plant Breeding, DuPont Plant Sciences Symposia Series”, Piracicaba, SP, Brazil, 2017
+- [I International Meeting on Plant Breeding, DuPont Plant Sciences Symposia Series”, Piracicaba, SP, Brazil, 2017](https://gvenck.wordpress.com/about/)
+- 31º Encontro Sobre Temas de Genética e Melhoramento. Tema: Seleção Genômica Ampla: Princípios e Aplicações. ESALQ/USP, Piracicaba, SP. 2014.
+
+
 
