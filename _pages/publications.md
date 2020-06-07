@@ -17,8 +17,8 @@ QUANTITATIVE INDICES
 
 KEY RELEVANT BOOKS & CHAPTERS
 ======
-- Lyra, D.H., Amaral, C.L.F. (2017). [Medicinal plant breeding - from phenotypic selection to genomic prediction](https://novapublishers.com/shop/medicinal-plants-production-cultivation-and-uses/). In: Medicinal Plants: Production, Cultivation and Uses (1 Ed.). Hauppauge: Nova Science Publishers, Inc.
-- Lyra, D.H., Brasileiro, B.P., Almeida, L.A.H. (2012). [Jatropha L.: genetic resources & crop breeding - focus on biodiesel production in Brazil](https://www.amazon.com/Jatropha-L-Resources-Biodiesel-Production/dp/3659216941). 1ªed. Saarbrücken, Germany: LAP-Lambert Academic Publishing / AV Akademikerverlag GmbH & Co. KG. 156p.
+- **Lyra, D.H.**, Amaral, C.L.F. (2017). [Medicinal plant breeding - from phenotypic selection to genomic prediction](https://novapublishers.com/shop/medicinal-plants-production-cultivation-and-uses/). In: Medicinal Plants: Production, Cultivation and Uses (1 Ed.). Hauppauge: Nova Science Publishers, Inc.
+- **Lyra, D.H.**, Brasileiro, B.P., Almeida, L.A.H. (2012). [Jatropha L.: genetic resources & crop breeding - focus on biodiesel production in Brazil](https://www.amazon.com/Jatropha-L-Resources-Biodiesel-Production/dp/3659216941). 1ªed. Saarbrücken, Germany: LAP-Lambert Academic Publishing / AV Akademikerverlag GmbH & Co. KG. 156p.
 
 KEY RELEVANT MANUSCRIPTS (†Corresponding author)
 ======
