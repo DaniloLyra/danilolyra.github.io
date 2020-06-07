@@ -36,7 +36,7 @@ Education
 Research experience
 ======
 * 2018-present ● Post-Doctoral Research ● Wheat Genomics
-  * Manager: Gancho Slavov 
+  * Manager: [Gancho Slavov](https://www.researchgate.net/profile/Gancho_Slavov2) 
   * Key responsibilities: statistical and quantitative genomics data analysis
   * Research projects: see ‘Hot Topics Research’
 
