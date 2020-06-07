@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<img src="https://github.com/DaniloLyra/danilolyra.github.io/blob/master/images/research_exp.png" width="700" height="500">
+
+*Research Experience - Timeline
+
+
 Personal Information
 ======
 - Male, Brazilian (also has Italian Citizenship), Married (no kids), Birth: 07/03/1989.
