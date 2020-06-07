@@ -11,7 +11,7 @@ redirect_from:
 
 Personal Information
 ======
-- Male, Brazilian (also have Italian Citizenship), Married (no kids), Birth: 07/03/1989.
+- Male, Brazilian (also has Italian Citizenship), Married (no kids), Birth: 07/03/1989.
 - I like playing sports (football, volley, and basketball), running, and outdoor activities.
 
 Education
