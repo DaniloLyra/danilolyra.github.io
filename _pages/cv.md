@@ -11,7 +11,7 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/research_exp.png" width="900" height="500">
 
-*Research Experience - Timeline
+Research Experience - Timeline
 
 
 Personal Information
