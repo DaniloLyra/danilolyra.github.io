@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/JXB.png" width="900" height="500">
+
+Research Experience - Timeline
+
 QUANTITATIVE INDICES
 ======
 - Book chapters: 2 
