@@ -15,10 +15,10 @@ QUANTITATIVE INDICES
 - Peer review (verified by Publons): 10
 - Number of citations (G. Scholar): 132
 
-KEY RELEVANT BOOKS & CHAPTERS
+PAPERS UNDER DEVELOPMENT 
 ======
-- **Lyra, D.H.**, Amaral, C.L.F. (2017). [Medicinal plant breeding - from phenotypic selection to genomic prediction](https://novapublishers.com/shop/medicinal-plants-production-cultivation-and-uses/). In: Medicinal Plants: Production, Cultivation and Uses (1 Ed.). Hauppauge: Nova Science Publishers, Inc.
-- **Lyra, D.H.**, Brasileiro, B.P., Almeida, L.A.H. (2012). [Jatropha L.: genetic resources & crop breeding - focus on biodiesel production in Brazil](https://www.amazon.com/Jatropha-L-Resources-Biodiesel-Production/dp/3659216941). 1ªed. Saarbrücken, Germany: LAP-Lambert Academic Publishing / AV Akademikerverlag GmbH & Co. KG. 156p.
+- **Lyra, D.H**, Watson, A., Griffiths, C.A., Johnson, R., Molero, G., Igna, A., Hassani-Pak, K., Reynolds, M., Hall, A., Paul, M.J. Gene-based mapping of trehalose biosynthetic pathway genes reveals association with yield-related traits in a spring wheat panel. (to be submitted soon).
+- **Lyra, D.H**, Virlet, N., Sadeghi-Tehran, P., Thomas, S.G., Huttly, A., Simmonds, J., Uauy, C., Phillips, A., Hawkesford, M.J., Slavov, G.T. The contribution of ultra-rare variants to complex traits in wheat (under development).
 
 KEY RELEVANT MANUSCRIPTS (†Corresponding author)
 ======
@@ -51,3 +51,9 @@ KEY RELEVANT MANUSCRIPTS (†Corresponding author)
 - Figueiredo, I. C. R. D., Pinto, C. A. B. P., Ribeiro, G. H. M. R., Lino, L. D. O., **Lyra, D. H.**, & Moreira, C. M. (2015). [Efficiency of selection in early generations of potato families with a view toward heat tolerance](https://www.researchgate.net/publication/290786970_Efficiency_of_selection_in_early_generations_of_potato_families_with_a_view_toward_heat_tolerance). *Crop Breeding and Applied Biotechnology*, 15(4), 210-217.
 
 - Ribeiro, G. H. M. R., Pinto, C. A. B. P., Figueiredo, I. C. R., Moreira, C. M., **Lyra, D. H.** (2014). [Selection of families for tubers appearance and tolerance to elevated temperatures in potato](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0006-87052014000400007). *Bragantia*, 73(4), 390-398.
+
+KEY RELEVANT BOOKS & CHAPTERS
+======
+- **Lyra, D.H.**, Amaral, C.L.F. (2017). [Medicinal plant breeding - from phenotypic selection to genomic prediction](https://novapublishers.com/shop/medicinal-plants-production-cultivation-and-uses/). In: Medicinal Plants: Production, Cultivation and Uses (1 Ed.). Hauppauge: Nova Science Publishers, Inc.
+
+- **Lyra, D.H.**, Brasileiro, B.P., Almeida, L.A.H. (2012). [Jatropha L.: genetic resources & crop breeding - focus on biodiesel production in Brazil](https://www.amazon.com/Jatropha-L-Resources-Biodiesel-Production/dp/3659216941). 1ªed. Saarbrücken, Germany: LAP-Lambert Academic Publishing / AV Akademikerverlag GmbH & Co. KG. 156p.
