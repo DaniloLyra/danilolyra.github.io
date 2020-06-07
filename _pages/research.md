@@ -18,3 +18,8 @@ HOT TOPICS RESEARCH
 -	Integration of genomic and metagenomic data (e.g. rhizosphere microbiomes) for trait dissection in wheat,
 -	Multi-omics data analysis using artificial intelligence models to study signaling pathways and prediction of phenotypic traits in willow.
 
+<p float="left">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/rothamsted_research.png" width="200" height="60">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/bbsrc-logo.jpg" width="100" height="80">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/DFW.jpg" width="120" height="60">
+</p>
