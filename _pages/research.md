@@ -5,6 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/RRes_group.png" width="600" height="400">
+
+**Fig. 1. Quantitative Genetics Network - Rothamsted Research - Projects
+
+
 HOT TOPICS RESEARCH
 ---
 -	Combining high-throughput plant phenotyping and molecular genetics for trait dissection in wheat,
