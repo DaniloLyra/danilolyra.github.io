@@ -19,7 +19,7 @@ HOT TOPICS RESEARCH
 -	Multi-omics data analysis using artificial intelligence models to study signaling pathways and prediction of phenotypic traits in willow.
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/rothamsted_research.png" width="200" height="60">
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/bbsrc-logo.jpg" width="100" height="80">
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/DFW.jpg" width="120" height="60">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/rothamsted_research.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/bbsrc-logo.jpg" width="300" height="150">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/DFW.jpg" width="100" height="100">
 </p>
