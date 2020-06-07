@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="https://github.com/DaniloLyra/danilolyra.github.io/blob/master/images/research_exp.png" width="800" height="500">
+<img src="https://github.com/DaniloLyra/danilolyra.github.io/blob/master/images/research_exp.png" width="900" height="500">
 
 *Research Experience - Timeline
 
