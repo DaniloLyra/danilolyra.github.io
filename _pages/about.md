@@ -16,6 +16,7 @@ Research Expertise & Core Skills
 - Plant Breeding for Abiotic Stress Tolerance (Heat, Drought, and Nitrogen Stress)
 - Design and Analysis of Breeding Trials (single, multi-environment)
 - QTL mapping, Association Studies, and Gene-based Analysis
+- Multi-omics Modeling (Trait Prediction, Pathway & Network Analysis)
 - Population Genetics and Genomic Selection
 - High-throughput Phenotyping & Statistical Modeling (Linear, Mixed, and Multivariate Models)
 
