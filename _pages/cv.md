@@ -16,8 +16,8 @@ Research Experience - Timeline
 
 Personal Information
 ======
-- Male, Brazilian (also has Italian Citizenship), Married (no kids), Birth: 07/03/1989.
-- I like playing sports (football, volley, and basketball), running, and outdoor activities.
+- Male, Brazilian (also has Italian Citizenship), Married (no kids), Birth: March/89.
+- I like playing sports (football, volley, and basketball) and running.
 
 Education
 ======
