@@ -9,6 +9,10 @@ author_profile: true
 
 **Fig. 1. Quantitative Genetics Network - Rothamsted Research - Projects
  
+Designing Future Wheat programme
+---
+[**Development for trait dissection**](https://designingfuturewheat.org.uk/)
+- Accelerating the discovery and deployment of genes and alleles of high value for breeding to maximise impact from discoveries from the Designing Future Wheat programme.
 
 HOT TOPICS RESEARCH
 ---
