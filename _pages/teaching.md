@@ -13,6 +13,7 @@ author_profile: true
 
 ## RECENT INVITED LECTURES/TALKS		
  
+ - **LYRA, D.H.** Talk: ‘Genetic Dissection of Trehalose Biosynthetic Pathway Genes for Yield-related Traits in Wheat. In: [Genetics and Plant Breeding Virtual Symposium – INTERGEN. Corteva Agriscience Plant Sciences Symposia Series](https://corteva.zoom.us/webinar/register/WN_RHxR8fJuRZaEXhBfkdEKzA?timezone_id=America%2FSao_Paulo), 2020
 - **LYRA, D.H.** Talk: ‘Functional QTL Mapping of 3D Height Measured from a Robotic Field Scanalyzer in Wheat’. In: PAG XXVII - Plant & Animal Genome Conference, San Diego, US, 2019.
 -	**LYRA, D.H.** Talk: ‘Predicting Complex Human and Plants Phenotypes using DNA information’. In Cafe Scientifique, Silver Cup, Harpenden, UK, 2019.
 -	**LYRA, D.H.** Seminar Talk: 'Phenomics and Plant Genetics'. In: Early Career Researchers Seminar, Rothamsted Research, UK, 2019.
@@ -21,7 +22,7 @@ author_profile: true
 -	**LYRA, D.H.** Talk: ‘Large-Scale Phenotyping (Phenomics)’. In: VIII Holiday Workshop on Genetics and Plant Breeding, ESALQ/USP, Piracicaba-SP, Brazil, 2014.
 -	**LYRA, D.H.** Seminar Talk: 'Potato Crop Breeding - Polyploid Genotyping'. In: Genetics and Plant Breeding Seminar, Federal University of Lavras (UFLA), Lavras, MG, Brazil, 2013.
 
-## TRAINING COURSES DELIVERED
+## MAIN TRAINING COURSES DELIVERED
 
 - **LYRA, D.H.** Training course: 'Genetic Data Analysis and GWAS'. In: Bioinformatics Training Courses, Rothamsted Research, UK, 2020 (2020 Edition in August)
 - SLAVOV, G. **LYRA, D.H.** Training course: ‘Populations Genomics, GWAS, and Genomic Prediction’. In: Bioinformatics Training Courses, Rothamsted Research, UK, 2018
