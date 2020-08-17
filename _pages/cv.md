@@ -36,37 +36,42 @@ Education
 Research experience
 ======
 * 2018-present ● Post-Doctoral Research ● Wheat Genomics
-  * Manager: [Gancho Slavov](https://www.researchgate.net/profile/Gancho_Slavov2) 
-  * Key responsibilities: statistical and quantitative genomics data analysis
-  * Research projects: see ‘Hot Topics Research’
+  * **Manager**: [Gancho Slavov](https://www.researchgate.net/profile/Gancho_Slavov2) 
+  * **Key responsibilities**: statistical and quantitative genomics data analysis
+  * **Research projects**: see ‘Hot Topics Research’. Main goal: accelerating the discovery and deployment of genes and alleles of high value for breeding.
+  * **Research expertise**: genomic prediction strategies using image data, gene-based (SKAT, SKAT-O) scans in biosynthetic pathways, multi-omics modeling
+  * **Notable achievements**: leading the statistical genetics and quantitative genetics group; developed a genomic prediction strategy using time series data from a phenotyping platform; developing a quantitative genetics pipeline for the wheat TILLING panel; developing new models/strategies using multi-omics data in willow.
+
 
 * 2017 ● Training Research, Collaboration ● CIMMYT, Texcoco, Mexico
-  * Manager: [Jose Crossa](https://scholar.google.com.mx/citations?user=MsMBKCUAAAAJ&hl=en) 
-  * Key responsibilities: one-month training. Technical visits to field trials. Molecular data analyzes using genotype × environment interaction models
-  * Research project: Genomic selection for nitrogen and drought stress in maize and wheat
+  * **Manager**: [Jose Crossa](https://scholar.google.com.mx/citations?user=MsMBKCUAAAAJ&hl=en) 
+  * **Key responsibilities**: one-month training. Technical visits to field trials. Molecular data analyzes using genotype × environment interaction models
+  * **Research project**: Genomic selection for nitrogen and drought stress in maize and wheat
     
 * 2015-2016 ● Training Research, Collaboration ● Iowa State University, Ames, United States
-  * Manager: [Jianming Yu](https://www.ipb.iastate.edu/people/jianming-yu)  
-  * Key responsibilities: ten months training. Evaluation of sorghum and maize field trials. Analyses of population genomics (fineSTRUCTURE, ADMIXTURE, MG-GBLUP, rrBLUP, linkage disequilibrium)
-  * Research project: Genomic selection for structured population in maize
+  * **Manager**: [Jianming Yu](https://www.ipb.iastate.edu/people/jianming-yu)  
+  * **Key responsibilities**: ten months training. Evaluation of sorghum and maize field trials. Analyses of population genomics (fineSTRUCTURE, ADMIXTURE, MG-GBLUP, rrBLUP, linkage disequilibrium)
+  * **Research project**: Genomic selection for structured population in maize
   
 * 2014-2017 ● Ph.D. Research ● Maize Breeding and Genomics
-  * Manager: [Roberto Fritsche-Neto](http://www.genetica.esalq.usp.br/alogamas/index2.html)   
-  * Key responsibilities: evaluation of breeding trials (i.e. double haploids, hybrids, and inbred lines), selection methods for nitrogen use efficiency (NUE), application of genomic selection and genome wide association studies (GWAS) for NUE phenotypes
-  * Research project: Accuracy of nonadditive genomic selection models to predict tropical maize single-crosses
+  * **Manager**: [Roberto Fritsche-Neto](http://www.genetica.esalq.usp.br/alogamas/index2.html)   
+  * **Key responsibilities**: evaluation of breeding trials (i.e. double haploids, hybrids, and inbred lines), selection methods for nitrogen use efficiency (NUE), application of genomic selection and genome wide association studies (GWAS) for NUE phenotypes
+  * **Research project**: Accuracy of nonadditive genomic selection models to predict tropical maize single-crosses
   
 * M.S. Research ● Potato Breeding
-  * Manager: César Augusto Brasil Pereira Pinto   
-  * Key responsibilities: field testing (i.e. multi-environment trials), recurrent selection and methods for heat tolerance, germplasm characterization, and disease resistance breeding.
-  * Research project: Heat tolerance in potato: physiological characterization of clones
+  * **Manager**: César Augusto Brasil Pereira Pinto   
+  * **Key responsibilities**: field testing (i.e. multi-environment trials), recurrent selection and methods for heat tolerance, germplasm characterization, and disease resistance breeding.
+  * **Research project**: Heat tolerance in potato: physiological characterization of clones
   
 * Undergraduate Research ● Aromatic & Medicinal Breeding
-  * Manager: Cláudio Lúcio Fernandes Amaral  
-  * Key responsibilities: evaluation of breeding systems, pollen analysis, and germplasm collection and characterization
-  * Research projects: (i) on-farm conservation, participatory plant breeding, and ethnobotanical studies in the Brazilian semi-arid (Caatinga) region, and (ii) aromatic and medicinal breeding (focus on Ocimum L. and Jatropha L.)
+  * **Manager**: Cláudio Lúcio Fernandes Amaral  
+  * **Key responsibilities**: evaluation of breeding systems, pollen analysis, and germplasm collection and characterization
+  * **Research projects**: (i) on-farm conservation, participatory plant breeding, and ethnobotanical studies in the Brazilian semi-arid (Caatinga) region, and (ii) aromatic and medicinal breeding (focus on *Ocimum* L. and *Jatropha* L. - physic nut)
   
 Most relevant training courses attended
 ======
+* 25th Summer Institute in Statistical Genetics (SISG) - [Module 10: Pathway & Network Analysis for Omics Data](https://si.biostat.washington.edu/suminst/sisg2020/modules/SM2010). In: University of Washington (online) / 2020
+* 6th Annual Summer Institute in Statistics for Big Data (SISBID) - [Module 2: Supervised Methods for Statistical Machine Learning](https://si.biostat.washington.edu/suminst/sisbid2020/modules/BD2002). In: University of Washington (online) / 2020
 * [Bioinformatics for Plant Biology](https://www.ebi.ac.uk/training/events/2018/bioinformatics-plant-biology). In: European Bioinformatics Institute, EMBL (Cambridge, UK) / 32h / 2018
 * Tools for Analysis of GWAS in Crops. In: Instituto Nacional de Investigación Agropecuaria, INIA, Uruguay / 80h / 2017
 * [Modeling G × E interaction in Genomic Prediction Analysis](https://www.g3journal.org/content/8/9/3039.article-info). Tutor: Jose Crossa (CIMMYT). In: University of Sao Paulo, Brazil / 8h / 2017
@@ -83,6 +88,7 @@ Main Ad Hoc Reviewer
 - Crop Science
 - Brazilian Journal of Agricultural Research
 - Scientia Agricola
+- Euphytica
 
 Programming skills
 ======
@@ -105,6 +111,13 @@ Further relevant information
 - Member of the Brazilian Society of Plant Breeding and the Genetics Society (UK)
 - Best Research Award - 1st Place - Congress of Scientific Initiation, 2011
 - Contributed as a collaborator to the approval of the BBSRC-FAPESP pump-priming grant (UK), 2018
+
+Languages
+======
+- Portuguese: mother tongue
+- English: Advanced. Score 86/120 in "Test of English as a Foreign Language" (ETS-TOEFL iBT). Score 7 in IELTS/Academic (International English Language Testing System).
+- Spanish: Intermediate
+- Italian: Beginning level
 
 Skills
 ======
