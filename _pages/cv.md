@@ -24,7 +24,7 @@ Education
 * 2018-present - Rothamsted Research, Harpenden, United Kingdom
   * Post-Doctoral Research Scientist ● Statistical Genomics
 * 2014-2017 - Luiz de Queiroz College of Agriculture / University of São Paulo (ESALQ-USP), Piracicaba, Brazil
-  * Doctor's (Ph.D.) Degree ● Genetics and Plant Breeding
+  * Doctor's (Ph.D.) Degree ● Genetics and Plant Breeding ● [Allogamous Plant Breeding Laboratory](http://www.genetica.esalq.usp.br/alogamas/index2.html)
   * Thesis title: Influence of multi-trait modeling, dominance, and population structure in genomic prediction of maize hybrids
 * 2012-2013 - Federal University of Lavras (UFLA), Brazil
   * Master’s (M.S) Degree ● Genetics and Plant Breeding
@@ -38,8 +38,8 @@ Research experience
 * 2018-present ● Post-Doctoral Research ● Wheat Genomics
   * **Manager**: [Gancho Slavov](https://www.researchgate.net/profile/Gancho_Slavov2) 
   * **Key responsibilities**: statistical and quantitative genomics data analysis
-  * **Research projects**: see ‘Hot Topics Research’. Main goal: accelerating the discovery and deployment of genes and alleles of high value for breeding.
-  * **Research expertise**: genomic prediction strategies using image data, gene-based (SKAT, SKAT-O) scans in biosynthetic pathways, multi-omics modeling
+  * **Research projects**: see ‘Hot Topics Research’. [Designing Future Wheat programme](https://designingfuturewheat.org.uk/). Main goal: accelerating the discovery and deployment of genes and alleles of high value for breeding.
+  * **Research expertise**: genomic prediction strategies using image data, gene-based (SKAT, SKAT-O) scans in biosynthetic pathways, multi-omics modeling in willow
   * **Notable achievements**: leading the statistical genetics and quantitative genetics group; developed a genomic prediction strategy using time series data from a phenotyping platform; developing a quantitative genetics pipeline for the wheat TILLING panel; developing new models/strategies using multi-omics data in willow.
 
 
@@ -54,7 +54,7 @@ Research experience
   * **Research project**: Genomic selection for structured population in maize
   
 * 2014-2017 ● Ph.D. Research ● Maize Breeding and Genomics
-  * **Manager**: [Roberto Fritsche-Neto](http://www.genetica.esalq.usp.br/alogamas/index2.html)   
+  * **Manager**: [Roberto Fritsche-Neto](https://www.researchgate.net/profile/Roberto_Fritsche-Neto)   
   * **Key responsibilities**: evaluation of breeding trials (i.e. double haploids, hybrids, and inbred lines), selection methods for nitrogen use efficiency (NUE), application of genomic selection and genome wide association studies (GWAS) for NUE phenotypes
   * **Research project**: Accuracy of nonadditive genomic selection models to predict tropical maize single-crosses
   
