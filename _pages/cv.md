@@ -80,14 +80,12 @@ Most relevant training courses attended
 * [Analysis of Experiments using ASReml-R](https://www.biostatsgen.com/uploads/3/8/9/6/38964623/alldiap_august2014.pdf). Tutor: Salvador Gezan (University of Florida). In: University of Sao Paulo, Brazil / 16h / 2015.1
 * [Bayes Biostatistics](http://www.esalq.usp.br/departamentos/lce/arquivos/aulas/2014/WORKSHOP_ON_BAYESIAN_BIOSTATISTICS/Bayesian_course_main_part%201.pdf). Tutor: Emmanuel Lesaffre (University Hasselt). In: University of Sao Paulo, Brazil / 45h / 2014
 
-Main Ad Hoc Reviewer
+Main Ad Hoc Reviewer (verified by [Publons](https://publons.com/researcher/1718388/danilo-hottis-lyra/peer-review/))
 ======
 - Agronomy (Topic Editor)
 - Plos One
 - Molecular Breeding
 - Crop Science
-- Brazilian Journal of Agricultural Research
-- Scientia Agricola
 - Euphytica
 
 Programming skills
