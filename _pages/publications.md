@@ -30,6 +30,11 @@ PAPERS SUBMITTED
 
 KEY RELEVANT MANUSCRIPTS <font size="4"> (†Corresponding author) </font>
 ======
+
+<p style="font-family: times, serif; font-size:11pt; font-style:italic">
+    Why did we use these specific parameters during the calculation of the fingerprints?
+</p>
+
 1. **Lyra, D.H.** †, Virlet, N., Sadeghi-Tehran, P., Hassall, K.L., Wingen, L.U., Orford, S., Griffiths, S., Hawkesford, M.J., Slavov, G.T. (2020). [Functional QTL mapping and genomic prediction of canopy height in wheat measured using a robotic field phenotyping platform](https://academic.oup.com/jxb/article/71/6/1885/5757976). *Journal of Experimental Botany*, 71(6), 1885-1898. 
 
 2.	Moraes, P.P.P., Akdemir, D., Jannink, J.L., Fritsche-Neto, R., Borem, A., Andrade, L.R. B., Alves, F.C., **Lyra, D.H.**, Granato, I.S.C. (2020). [Using public databases for genomic prediction of tropical maize lines](https://onlinelibrary.wiley.com/doi/full/10.1111/pbr.12827). *Plant Breeding*, 1:1-11.
