@@ -10,20 +10,20 @@ redirect_from:
 
 {% include youtubePlayer.html id="ZE_Hw6npYz4" %}
 
+
 Research Expertise & Core Skills
 ======
-- Quantitative Genetics (Potato, Maize, and Wheat breeding/genomics)
+- Quantitative & Statistical Genetics (experience in Potato, Maize, and Wheat breeding/genomics)
 - Plant Breeding for Abiotic Stress Tolerance (Heat, Drought, and Nitrogen Stress)
-- Design and Analysis of Breeding Trials (single, multi-environment)
-- QTL mapping, Association Studies, and Gene-based Analysis
+- Design and Statistical Analysis of Breeding Trials (single, multi-environment-GxE)
+- QTL mapping, Association Studies (GWAS), and Gene-based Analysis
 - Multi-omics Modeling (Trait Prediction, Pathway & Network Analysis)
 - Population Genetics and Genomic Selection
-- High-throughput Phenotyping & Statistical Modeling (Linear, Mixed, and Multivariate Models)
+- High-throughput Phenomics (Integrating Image Data in Genomic Models)
 
 About me
 ======
-Danilo is a quantitative and statistical geneticist at Rothamsted Research since 2018. He holds an M.S. and Ph.D. degree in Genetics and Plant Breeding having an extensive background in potato, maize, and wheat breeding/genomics. Danilo has a research background in classical field-based breeding activities, and experience in modern statistical genomics approaches where he focuses on understanding the genetic architecture of quantitative traits. He also received professional training at Iowa State University ([Jianming Yu](https://sites.google.com/site/quantitativegeneticsmaize/home)) and CIMMYT-Mexico (Jose Crossa). Briefly, his expertise is statistics, quantitative genetics, population genomics, QTL mapping, association studies, genomic selection, and plant breeding for abiotic stress tolerance (e.g. heat, drought, and nitrogen stress). Previously, he looked at several genomic selection approaches (i) including multi-trait models (Lyra et al. 2017), (ii) controlling population structure (Lyra et al. 2018), and (iii) incorporating dominance and copy number variation effects (Lyra et al. 2019) in maize hybrids.
-Currently, he is working on four main projects with extensive collaborations (e.g. JIC, Earlham) in hexaploid wheat: 1) combining high-throughput plant phenotyping and molecular genetics for trait dissection (Lyra et al. 2020); 2) gene-based mapping of trehalose biosynthetic pathway genes for source- and sink-related traits (Lyra et al. 2020); 3) development of a quantitative genetics pipeline for the wheat Cadenza TILLING population (Lyra et al. under development), and 4) integration of genomic and metagenomic data (e.g. rhizosphere microbiomes) for trait dissection. Danilo also has experience in teaching undergraduate courses as a tutor and has also taught biology in public high schools.
+Danilo is a crop quantitative and statistical geneticist at Rothamsted Research since 2018. He holds an M.S. and Ph.D. degree in Genetics and Plant Breeding having an extensive background in potato, maize, and wheat breeding/genomics. Danilo has a research background in classical field-based breeding activities, and experience in modern statistical genomics approaches where he focuses on understanding the genetic architecture of quantitative traits for accelerating the discovery and deployment of genes and alleles of high value for breeding. He also received professional training at Iowa State University ([Jianming Yu](https://sites.google.com/site/quantitativegeneticsmaize/home)) and CIMMYT-Mexico ([Jose Crossa](https://www.cimmyt.org/people/jose-crossa/)). Briefly, his expertise is statistics, quantitative genetics, population genomics, association studies, genomic selection, high throughput phenomics, and plant breeding for abiotic stress tolerance (e.g. heat, drought, and nitrogen stress). Previously, he looked at several genomic selection approaches (*i*) including multi-trait models (Lyra *et al.* 2017), (*ii*) controlling population structure (Lyra *et al.* 2018), and (*iii*) incorporating dominance and copy number variation effects (Lyra *et al.* 2019) in maize hybrids. Currently, he is working with extensive collaborations in the [Designing Future Wheat programme/UK](https://designingfuturewheat.org.uk/). He is leading many projects in the Quantitative Genetics group such as (*i*) combining high-throughput plant phenotyping and molecular genetics for trait dissection (Lyra *et al.* 2020), (*ii*) gene-based mapping of trehalose biosynthetic pathway genes for source- and sink-related traits in a Biomass Panel (HIBAP) – in collaboration with Paul/RRes and Reynolds/CIMMYT (Lyra *et al.* 2020), (*iii*) development of a quantitative genetics pipeline for the wheat TILLING population – in collaboration with Andy Phillips/RRes and Cristobal Uauy/JIC (under development), (*iv*) integration of genomic and metagenomic data (e.g. rhizosphere microbiomes) for trait dissection (BBSCR pump-priming grant). Danilo also has experience in teaching undergraduate courses as a tutor and has also taught biology in public high schools.
 
 Bachelor’s degree
 ======
