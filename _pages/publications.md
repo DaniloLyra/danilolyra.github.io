@@ -28,7 +28,7 @@ PAPERS SUBMITTED
 ======
 - **Lyra, D.H**, Griffiths, C.A., Watson, A., Igna, A., Hassani-Pak, K., Molero, G., Reynolds, M., Johnson, R. Hall, A., Paul, M.J*. (2020). Gene-based mapping of trehalose biosynthetic pathway genes reveals association with yield-related traits in a spring wheat panel. [BioRxiv (preprint)](https://www.biorxiv.org/content/10.1101/2020.07.07.192054v1.abstract).
 
-KEY RELEVANT MANUSCRIPTS \small (†Corresponding author)
+KEY RELEVANT MANUSCRIPTS <font size="8"> (†Corresponding author)</font>
 ======
 1. **Lyra, D.H.** †, Virlet, N., Sadeghi-Tehran, P., Hassall, K.L., Wingen, L.U., Orford, S., Griffiths, S., Hawkesford, M.J., Slavov, G.T. (2020). [Functional QTL mapping and genomic prediction of canopy height in wheat measured using a robotic field phenotyping platform](https://academic.oup.com/jxb/article/71/6/1885/5757976). *Journal of Experimental Botany*, 71(6), 1885-1898. 
 
