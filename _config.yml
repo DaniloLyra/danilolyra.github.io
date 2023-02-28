@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Danilo Lyra"
   avatar           : "profile.png"
-  bio              : "Crop Quantitative Geneticist at BASF - Wheat Crop Lead (Biometrics)"
+  bio              : "Crop Quantitative Geneticist - Wheat Crop Lead (Biometrics)"
   location         : "Gent, Belgium"
-  employer         :
+  employer         : "BASF"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jUZFWpkAAAAJ&hl=pt-BR&oi=ao"
   email            : "dnalyra@gmail.com"
@@ -102,18 +102,18 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/danilo-lyra-849488106/"
-  webofscience     : "https://www.webofscience.com/wos/author/record/336660"
+  linkedin         : "www.linkedin.com/in/danilo-lyra-849488106"
+  webofscience     : #"https://www.webofscience.com/wos/author/record/336660"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://www.webofscience.com/wos/author/record/336660"
   steam            :
   tumblr           :
   twitter          : "LyraHottis"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/watch?v=5BMfFuuqOW4&ab_channel=InterGen"
+  youtube          : "www.youtube.com/watch?v=5BMfFuuqOW4&ab_channel=InterGen"
   wikipedia        :
 
 
