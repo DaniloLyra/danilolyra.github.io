@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Building a better plant - Increasing nitrogen efficiency of tropical maize"
+title: "Building a better plant - Increasing nitrogen efficiency of tropical maize - test"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
