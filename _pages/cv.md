@@ -7,13 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# {% include base_path %}
-# 
-# <img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/research_exp.png" width="900" height="500">
-
-#Research Experience - Timeline
-
-
 Personal Information
 ======
 - Male, Brazilian (also has Italian Citizenship)

@@ -25,7 +25,7 @@ KEY RELEVANT MANUSCRIPTS *(†Corresponding author)*
 ======
 1. **Lyra, D.H.** †, Virlet, N., Sadeghi-Tehran, P., Hassall, K.L., Wingen, L.U., Orford, S., Griffiths, S., Hawkesford, M.J., Slavov, G.T. (2020). [Functional QTL mapping and genomic prediction of canopy height in wheat measured using a robotic field phenotyping platform](https://academic.oup.com/jxb/article/71/6/1885/5757976). *Journal of Experimental Botany*, 71(6), 1885-1898. 
 
-2. **Lyra, D.H**, Griffiths, C.A., Watson, A., Igna, A., Hassani-Pak, K., Molero, G., Reynolds, M., Johnson, R. Hall, A., Paul, M.J*. (2021). [Gene-based mapping of trehalose biosynthetic pathway genes reveals association with yield-related traits in a spring wheat panel](https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.292). *Food and Energy Security*, 10(3), e292. 
+2. **Lyra, D.H**, Griffiths, C.A., Watson, A., Igna, A., Hassani-Pak, K., Molero, G., Reynolds, M., Johnson, R. Hall, A., Paul, M.J. (2021). [Gene-based mapping of trehalose biosynthetic pathway genes reveals association with yield-related traits in a spring wheat panel](https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.292). *Food and Energy Security*, 10(3), e292. 
 
 3. Fritsche-Neto, R., Galli, G., Borges, K.L.R., Costa-Neto, G., Alves, F.C., Sabadin, F., **Lyra, D.H.**, Morais, P.P.P., Andrade, L.R., Granato, I. Crossa, J. (2021). [Optimizing genomic-enabled prediction in small-scale maize hybrid breeding programs: a roadmap review](https://www.frontiersin.org/articles/10.3389/fpls.2021.658267/full). *Frontiers in Plant Science*, 12.
 
