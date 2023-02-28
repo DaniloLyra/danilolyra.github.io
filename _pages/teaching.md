@@ -13,7 +13,8 @@ author_profile: true
 
 ## RECENT INVITED LECTURES/TALKS		
  
- - **LYRA, D.H.** Talk: ‘Genetic Dissection of Trehalose Biosynthetic Pathway Genes for Yield-related Traits in Wheat. In: [Genetics and Plant Breeding Virtual Symposium – INTERGEN. Corteva Agriscience Plant Sciences Symposia Series](https://corteva.zoom.us/webinar/register/WN_RHxR8fJuRZaEXhBfkdEKzA?timezone_id=America%2FSao_Paulo), 2020
+ - **LYRA, D.H.** Talk: “Digital phenotyping and genotype-to-phenotype (G2P) models to dissect and predict dynamic phenotypes in crops”. In: Iowa State University, Monthly Plant Breeding Symposium, March/2022.
+ - **LYRA, D.H.** Talk: ‘Genetic Dissection of Trehalose Biosynthetic Pathway Genes for Yield-related Traits in Wheat. In: [Genetics and Plant Breeding Virtual Symposium – INTERGEN. Corteva Agriscience Plant Sciences Symposia Series](https://www.youtube.com/watch?v=5BMfFuuqOW4&ab_channel=InterGen), 2020.
 - **LYRA, D.H.** Talk: ‘Functional QTL Mapping of 3D Height Measured from a Robotic Field Scanalyzer in Wheat’. In: PAG XXVII - Plant & Animal Genome Conference, San Diego, US, 2019.
 -	**LYRA, D.H.** Talk: ‘Predicting Complex Human and Plants Phenotypes using DNA information’. In Cafe Scientifique, Silver Cup, Harpenden, UK, 2019.
 -	**LYRA, D.H.** Seminar Talk: 'Phenomics and Plant Genetics'. In: Early Career Researchers Seminar, Rothamsted Research, UK, 2019.

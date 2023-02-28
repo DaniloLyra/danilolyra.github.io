@@ -7,24 +7,24 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# {% include base_path %}
+# 
+# <img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/research_exp.png" width="900" height="500">
 
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/research_exp.png" width="900" height="500">
-
-Research Experience - Timeline
+#Research Experience - Timeline
 
 
 Personal Information
 ======
-- Male, Brazilian (also has Italian Citizenship), Married (no kids), Birth: March/89.
-- I like playing sports (football, volley, and basketball) and running.
+- Male, Brazilian (also has Italian Citizenship)
+- I like playing sports and running.
 
 Education
 ======
-* 2018-present - Rothamsted Research, Harpenden, United Kingdom
+* 2018-2021 - Rothamsted Research, Harpenden, United Kingdom
   * Post-Doctoral Research Scientist ● Statistical Genomics
 * 2014-2017 - Luiz de Queiroz College of Agriculture / University of São Paulo (ESALQ-USP), Piracicaba, Brazil
-  * Doctor's (Ph.D.) Degree ● Genetics and Plant Breeding ● [Allogamous Plant Breeding Laboratory](http://www.genetica.esalq.usp.br/alogamas/index2.html)
+  * Doctor's (Ph.D.) Degree ● Genetics and Plant Breeding ● Allogamous Plant Breeding Laboratory
   * Thesis title: Influence of multi-trait modeling, dominance, and population structure in genomic prediction of maize hybrids
 * 2012-2013 - Federal University of Lavras (UFLA), Brazil
   * Master’s (M.S) Degree ● Genetics and Plant Breeding
@@ -33,15 +33,18 @@ Education
   * Bachelor’s (B.S) Degree ● Plant Sciences (with emphasis on Genetics)
   * Bachelor title: Genetic studies in Jatropha ribifolia: germplasm conservation and improvement of populations in Bahia State, Brazil
 
-Research experience
+Research/Professional experience
 ======
-* 2018-present ● Post-Doctoral Research ● Wheat Genomics
+
+* May/2021-present ● Biometrics Scientist ● Wheat Crop Lead ● Biometrics and Breeding Research
+  * **Key responsibilities**: Biometrics support for winter wheat EMEA breeding programs. Implementation and support of experimental designs, multi-environment trial analysis, envirotyping, deployment of predictive methodologies such as genomic selection, optimization of crossing blocks, and heterotic pool formation.
+
+* 2018-April/2021 ● Post-Doctoral Research ● Wheat Genomics
   * **Manager**: [Gancho Slavov](https://www.researchgate.net/profile/Gancho_Slavov2) 
   * **Key responsibilities**: statistical and quantitative genomics data analysis
   * **Research projects**: see ‘Hot Topics Research’. [Designing Future Wheat programme](https://designingfuturewheat.org.uk/). Main goal: accelerating the discovery and deployment of genes and alleles of high value for breeding.
   * **Research expertise**: genomic prediction strategies using image data, gene-based (SKAT, SKAT-O) scans in biosynthetic pathways, multi-omics modeling in willow
   * **Notable achievements**: leading the statistical genetics and quantitative genetics group; developed a genomic prediction strategy using time series data from a phenotyping platform; developing a quantitative genetics pipeline for the wheat TILLING panel; developing new models/strategies using multi-omics data in willow.
-
 
 * 2017 ● Training Research, Collaboration ● CIMMYT, Texcoco, Mexico
   * **Manager**: [Jose Crossa](https://scholar.google.com.mx/citations?user=MsMBKCUAAAAJ&hl=en) 
@@ -80,7 +83,7 @@ Most relevant training courses attended
 * [Analysis of Experiments using ASReml-R](https://www.biostatsgen.com/uploads/3/8/9/6/38964623/alldiap_august2014.pdf). Tutor: Salvador Gezan (University of Florida). In: University of Sao Paulo, Brazil / 16h / 2015.1
 * [Bayes Biostatistics](http://www.esalq.usp.br/departamentos/lce/arquivos/aulas/2014/WORKSHOP_ON_BAYESIAN_BIOSTATISTICS/Bayesian_course_main_part%201.pdf). Tutor: Emmanuel Lesaffre (University Hasselt). In: University of Sao Paulo, Brazil / 45h / 2014
 
-Main Ad Hoc Reviewer (verified by [Publons](https://publons.com/researcher/1718388/danilo-hottis-lyra/peer-review/))
+Main Ad Hoc Reviewer (verified by [Publons]("https://www.webofscience.com/wos/author/record/336660"))
 ======
 - Agronomy (Topic Editor)
 - Plos One
@@ -94,6 +97,9 @@ Programming skills
 
 Main recent conference attended with poster presentation
 ======
+-	XVIIIth Eucarpia Biometrics in Plant Breeding Conference, Paris, France. 2022
+-	Monogram-Cereals & Grasses Research Network, Leeds, UK. 2022
+-	6th International Conference of Quantitative Genetics (ICQG6). 2020
 - PAG XXVII - Plant & Animal Genome Conference, San Diego, CA, USA. 2019
 - XXIVth EUCARPIA Maize and Sorghum Conference, Freising, Germany. 2019
 - 7th Channel Network Conference, Harpenden, UK. 2019
@@ -114,7 +120,7 @@ Languages
 ======
 - Portuguese: mother tongue
 - English: Advanced. Score 86/120 in "Test of English as a Foreign Language" (ETS-TOEFL iBT). Score 7 in IELTS/Academic (International English Language Testing System).
-- Spanish: Intermediate
+- Spanish: Intermediate level
 - Italian: Beginning level
 
 Skills
