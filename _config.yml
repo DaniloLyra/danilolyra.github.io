@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Danilo Lyra"
   avatar           : "profile.png"
-  bio              : "Crop Quantitative Geneticist at Rothamsted Research (UK)"
-  location         : "Harpenden, United Kingdom"
+  bio              : "Crop Quantitative Geneticist at BASF - Wheat Crop Lead (Biometrics)"
+  location         : "Gent, Belgium"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jUZFWpkAAAAJ&hl=pt-BR&oi=ao"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "danilo-hottis-lyra-849488106/"
-  orcid            : "https://publons.com/researcher/1718388/danilo-hottis-lyra/"
+  linkedin         : "https://www.linkedin.com/in/danilo-lyra-849488106/"
+  webofscience     : "https://www.webofscience.com/wos/author/record/336660"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/watch?v=ZE_Hw6npYz4&t=3s/"
+  youtube          : "https://www.youtube.com/watch?v=5BMfFuuqOW4&ab_channel=InterGen"
   wikipedia        :
 
 
