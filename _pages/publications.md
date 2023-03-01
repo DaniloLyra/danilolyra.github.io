@@ -13,46 +13,51 @@ QUANTITATIVE INDICES
 ======
 - Book chapters: 3 
 - Books: 1 
-- Papers: 24 
+- Papers: 26 
 - Abstracts in conferences: 50
 - Organizing committee of symposiums: 7
 - Training courses delivered: 5 (on field) / 2 (lab)
-- Peer review (verified by [Publons]("https://www.webofscience.com/wos/author/record/336660")): 15
+- Peer review (verified by Web of science): 15
 - Number of citations (G. Scholar): 400
 
 
-KEY RELEVANT MANUSCRIPTS *(†Corresponding author)*
+WHEAT BREEDING MANUSCRIPTS *(†Corresponding author)*
 ======
 1. **Lyra, D.H.** †, Virlet, N., Sadeghi-Tehran, P., Hassall, K.L., Wingen, L.U., Orford, S., Griffiths, S., Hawkesford, M.J., Slavov, G.T. (2020). [Functional QTL mapping and genomic prediction of canopy height in wheat measured using a robotic field phenotyping platform](https://academic.oup.com/jxb/article/71/6/1885/5757976). *Journal of Experimental Botany*, 71(6), 1885-1898. 
 
 2. **Lyra, D.H**, Griffiths, C.A., Watson, A., Igna, A., Hassani-Pak, K., Molero, G., Reynolds, M., Johnson, R. Hall, A., Paul, M.J. (2021). [Gene-based mapping of trehalose biosynthetic pathway genes reveals association with yield-related traits in a spring wheat panel](https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.292). *Food and Energy Security*, 10(3), e292. 
 
-3. Fritsche-Neto, R., Galli, G., Borges, K.L.R., Costa-Neto, G., Alves, F.C., Sabadin, F., **Lyra, D.H.**, Morais, P.P.P., Andrade, L.R., Granato, I. Crossa, J. (2021). [Optimizing genomic-enabled prediction in small-scale maize hybrid breeding programs: a roadmap review](https://www.frontiersin.org/articles/10.3389/fpls.2021.658267/full). *Frontiers in Plant Science*, 12.
 
-4.	Moraes, P.P.P., Akdemir, D., Jannink, J.L., Fritsche-Neto, R., Borem, A., Andrade, L.R. B., Alves, F.C., **Lyra, D.H.**, Granato, I.S.C. (2020). [Using public databases for genomic prediction of tropical maize lines](https://onlinelibrary.wiley.com/doi/full/10.1111/pbr.12827). *Plant Breeding*, 1:1-11.
+MAIZE BREEDING MANUSCRIPTS *(†Corresponding author)*
+======
 
-5. **Lyra, D.H.** †, Galli, G., Alves, F.C., Granato, I.S.C., Vidotti, M.S., Sousa, M.B., Morosini, J.S., Crossa, J., Fritsche-Neto, R. (2019). [Modeling copy number variation in the genomic prediction of maize hybrids](https://link.springer.com/article/10.1007/s00122-018-3215-2). *Theoretical and Applied Genetics*, 132: 273-288. 
+1. Fritsche-Neto, R., Galli, G., Borges, K.L.R., Costa-Neto, G., Alves, F.C., Sabadin, F., **Lyra, D.H.**, Morais, P.P.P., Andrade, L.R., Granato, I. Crossa, J. (2021). [Optimizing genomic-enabled prediction in small-scale maize hybrid breeding programs: a roadmap review](https://www.frontiersin.org/articles/10.3389/fpls.2021.658267/full). *Frontiers in Plant Science*, 12.
 
-6. Vidotti, M. S., **Lyra, D. H.**, Morosini, J. S., Granato, Í. S. C., Quecine, M. C., de Azevedo, J. L., & Fritsche-Neto, R. (2019). [Additive and heterozygous (dis) advantage GWAS models reveal candidate genes involved in the genotypic variation of maize hybrids to *Azospirillum brasilense*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222788). *PloS One*, 14(9).
+2.	Moraes, P.P.P., Akdemir, D., Jannink, J.L., Fritsche-Neto, R., Borem, A., Andrade, L.R. B., Alves, F.C., **Lyra, D.H.**, Granato, I.S.C. (2020). [Using public databases for genomic prediction of tropical maize lines](https://onlinelibrary.wiley.com/doi/full/10.1111/pbr.12827). *Plant Breeding*, 1:1-11.
 
-7. Sousa, M.B., Galli, G., **Lyra, D.H.**, Granato, I.S.C., Matias, F.I., Alves, F.C., Fritsche-Neto, R. (2019). [Increasing accuracy and reducing costs of genomic prediction by marker selection](https://link.springer.com/article/10.1007%2Fs10681-019-2339-z). *Euphytica*, 215.
+3. **Lyra, D.H.** †, Galli, G., Alves, F.C., Granato, I.S.C., Vidotti, M.S., Sousa, M.B., Morosini, J.S., Crossa, J., Fritsche-Neto, R. (2019). [Modeling copy number variation in the genomic prediction of maize hybrids](https://link.springer.com/article/10.1007/s00122-018-3215-2). *Theoretical and Applied Genetics*, 132: 273-288. 
 
-8. Alves, F.C., Granato, I.S.C., Galli, G., **Lyra, D.H.**, Fritsche-Neto, R., de los Campos, G. (2019). [Bayesian analysis and prediction of hybrid performance](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0388-x). *Plant Methods*, 15:14.
+4. Vidotti, M. S., **Lyra, D. H.**, Morosini, J. S., Granato, Í. S. C., Quecine, M. C., de Azevedo, J. L., & Fritsche-Neto, R. (2019). [Additive and heterozygous (dis) advantage GWAS models reveal candidate genes involved in the genotypic variation of maize hybrids to *Azospirillum brasilense*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222788). *PloS One*, 14(9).
 
-9. **Lyra, D.H.** †, Granato, I.S.C., Morais, P.P.P., Alves, F.C., dos Santos, A.R.M., Yu, X., Guo, T., Yu, J., Fritsche-Neto, R. (2018). [Controlling population structure in the genomic prediction of tropical maize hybrids](https://link.springer.com/article/10.1007%2Fs11032-018-0882-2). *Molecular Breeding*, 38: 126.
+5. Sousa, M.B., Galli, G., **Lyra, D.H.**, Granato, I.S.C., Matias, F.I., Alves, F.C., Fritsche-Neto, R. (2019). [Increasing accuracy and reducing costs of genomic prediction by marker selection](https://link.springer.com/article/10.1007%2Fs10681-019-2339-z). *Euphytica*, 215.
 
-10. Galli, G., **Lyra, D.H.**, Alves, F.C., Granato, I.S.C., Sousa, M.B., Fritsche-Neto, R. (2018). [Impact of phenotypic correction method and missing phenotypic data on genomic prediction of maize hybrids](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2135/cropsci2017.07.0459). *Crop Science*, 1: 1481-1491.
+6. Alves, F.C., Granato, I.S.C., Galli, G., **Lyra, D.H.**, Fritsche-Neto, R., de los Campos, G. (2019). [Bayesian analysis and prediction of hybrid performance](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0388-x). *Plant Methods*, 15:14.
 
-11. **Lyra, D.H.** †, Mendonça, L.F., Galli, G., Alves, F.C., Granato, I.S.C., Fritsche-Neto, R. (2017). [Multi-trait genomic prediction for nitrogen response indices in tropical maize hybrids](https://link.springer.com/article/10.1007%2Fs11032-017-0681-1). *Molecular Breeding*, 37: 1-14. 
+7. **Lyra, D.H.** †, Granato, I.S.C., Morais, P.P.P., Alves, F.C., dos Santos, A.R.M., Yu, X., Guo, T., Yu, J., Fritsche-Neto, R. (2018). [Controlling population structure in the genomic prediction of tropical maize hybrids](https://link.springer.com/article/10.1007%2Fs11032-018-0882-2). *Molecular Breeding*, 38: 126.
 
-12. Morosini, J.S., Mendonça, L.F., **Lyra, D.H.**, Galli, G., Vidotti, M.S., Fritsche-Neto, R (2017). [Association mapping for traits related to nitrogen use efficiency in tropical maize lines under field conditions](https://link.springer.com/article/10.1007%2Fs11104-017-3479-3). *Plant and Soil*, 421: 453-463.
+8. Galli, G., **Lyra, D.H.**, Alves, F.C., Granato, I.S.C., Sousa, M.B., Fritsche-Neto, R. (2018). [Impact of phenotypic correction method and missing phenotypic data on genomic prediction of maize hybrids](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2135/cropsci2017.07.0459). *Crop Science*, 1: 1481-1491.
+
+9. **Lyra, D.H.** †, Mendonça, L.F., Galli, G., Alves, F.C., Granato, I.S.C., Fritsche-Neto, R. (2017). [Multi-trait genomic prediction for nitrogen response indices in tropical maize hybrids](https://link.springer.com/article/10.1007%2Fs11032-017-0681-1). *Molecular Breeding*, 37: 1-14. 
+
+10. Morosini, J.S., Mendonça, L.F., **Lyra, D.H.**, Galli, G., Vidotti, M.S., Fritsche-Neto, R (2017). [Association mapping for traits related to nitrogen use efficiency in tropical maize lines under field conditions](https://link.springer.com/article/10.1007%2Fs11104-017-3479-3). *Plant and Soil*, 421: 453-463.
+
 
 PAPERS PUT ON HOLD
 ======
 - **Lyra, D.H**, Virlet, N., Sadeghi-Tehran, P., Thomas, S.G., Huttly, A., Simmonds, J., Uauy, C., Phillips, A., Hawkesford, M.J., Slavov, G.T. The contribution of ultra-rare variants to complex traits in wheat.
 
 
-OTHER KEY MANUSCRIPTS (POTATO BREEDING)
+POTATO BREEDING MANUSCRIPTS
 ======
 1. Carneiro, O.L.G., Ribeiro, S.R.R.P., Moreira, C.M., Guedes, M.L., **Lyra, D.H.**, Pinto, C.A. B.P. (2017). [Introgression of the Rl adg allele of resistance to potato leafroll virus in *Solanum tuberosum L.*](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S1984-70332017000300242&lng=en&tlng=en) *Crop Breeding and Applied Biotechnology*, 17(3): 242-249.
 
@@ -64,7 +69,7 @@ OTHER KEY MANUSCRIPTS (POTATO BREEDING)
 
 5. Ribeiro, G. H. M. R., Pinto, C. A. B. P., Figueiredo, I. C. R., Moreira, C. M., **Lyra, D. H.** (2014). [Selection of families for tubers appearance and tolerance to elevated temperatures in potato](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0006-87052014000400007). *Bragantia*, 73(4), 390-398.
 
-OTHER KEY MANUSCRIPTS (MEDICINAL & AROMATIC BREEDING)
+MEDICINAL & AROMATIC BREEDING MANUSCRIPTS
 ======
 1. **LYRA, D.H.**; ALMEIDA, L.A.H. ; BRASILEIRO, B.P. ; AMARAL, C.L.F. [Overcoming physical dormancy in seeds of *Jatropha mollissima (Pohl) Baill.* (*Euphorbiaceae*) in the semiarid region of Brazil](https://pdfs.semanticscholar.org/2f25/eaa2c04ec6d73db4d7e7eb7d34bd235de09d.pdf). *Revista Magistra*, 26, 206-212, 2014.
 
