@@ -5,9 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
+Rothamsted Research (2018-2021)
+
 <img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/RRes_group.png" width="650" height="500">
 
-**Fig. 1. Quantitative Genetics Network - Rothamsted Research - Projects
+** Fig. 1. Quantitative Genetics Network - Rothamsted Research
  
 Designing Future Wheat (DFW) programme
 ---
