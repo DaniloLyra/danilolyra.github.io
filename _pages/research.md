@@ -63,11 +63,11 @@ genes related to yield potential which confirms the role for T6P in resource all
 
 Figure 1. Trehalose Biosynthetic Pathway 
 
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/TPS2.png" width="900" height="600">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/TPS2.png" width="800" height="600">
 
 Figure 2. Summary of the gene-based association analysis in the wheat HiBAP panel. 
 
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/TPS3.png" width="900" height="600">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/TPS3.png" width="800" height="600">
 
 Figure 3. Predictive ability based on genome-wide markers, single gene family and combined effects.  
 
