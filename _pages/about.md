@@ -47,6 +47,14 @@ As a quantitative geneticist, I was engaged in many projects as leading investig
 
 Biometrics Scientist ● Wheat Crop Lead ● Biometrics and Breeding Research ● BASF Agricultural Solutions, Gent, Belgium
 ======
-I have been supporting the hybrid winter wheat EMEA breeding programs on the experimental designs, multi-environment trial analysis, envirotyping analytics, deployment of predictive methodologies (genomic selection), optimization of crossing blocks, and heterotic pool formation. I have been applying and implementing quantitative genetic approaches in wheat breeding in collaboration with breeders to increase selection gain. Therefore, I have been supporting wheat breeders in using breeding data analysis tools and in the interpretation and usage of the statistical data analysis pipelines.
+I have been supporting the hybrid winter wheat EMEA breeding programs on the experimental designs, multi-environment trial analysis, envirotyping analytics, deployment of predictive methodologies (genomic selection), optimization of crossing blocks (male and female pools), and heterotic pool formation. I have been applying and implementing quantitative genetic approaches in wheat breeding in collaboration with breeders to increase selection gain. Therefore, I have been supporting wheat breeders in using breeding data analysis tools and in the interpretation and usage of the statistical data analysis pipelines. I have lead the implementation of a pipeline for Product Profile Tool. 
+
+**Key responsibilities**:
+ - Supporting four hybrid wheat breeding programs in collaboration with breeders (hybrid, parental, associate, and agronomists)
+ - Performing experiment and breeding program design, data analysis for field trials and genetic analyses
+ - MET data analysis (hybrid and inbred trials; disease trials; Discovery Breeding trials).
+ - Supporting the Predictive Breeding project
+ - Delivering KPIs to measure the Genetic Gain of the breeding programs
+
 
 
