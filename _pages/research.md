@@ -36,7 +36,7 @@ Combining high-throughput plant phenotyping and molecular genetics for trait dis
 **Abstract**
 Genetic studies increasingly rely on high-throughput phenotyping, but the resulting longitudinal data pose analytical challenges. We used canopy height data from an automated field phenotyping platform to compare several approaches to scanning for quantitative trait loci (QTLs) and performing genomic prediction in a wheat recombinant inbred line mapping population based on up to 26 sampled time points (TPs). We detected four persistent QTLs (i.e. expressed for most of the growing season), with both empirical and simulation analyses demonstrating superior statistical power of detecting such QTLs through functional mapping approaches compared with conventional individual TP analyses. In contrast, even very simple individual TP approaches (e.g. interval mapping) had superior detection power for transient QTLs (i.e. expressed during very short periods). These results will inform the development of an integrated, semi-automated analytical pipeline, which will be more broadly applicable to similar data sets in wheat and other crops.
 
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/JXB.png" width="900" height="600">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/JXB.png" width="800" height="500">
 
 
 Gene-based mapping of trehalose biosynthetic pathway genes for yield-related traits in wheat
@@ -47,7 +47,7 @@ Gene-based mapping of trehalose biosynthetic pathway genes for yield-related tra
 Trehalose 6-phosphate (T6P) signalling regulates carbon use and allocation and is a target to improve crop yields. However, the specific contributions of trehalose phosphate synthase (TPS) and trehalose phosphate phosphatase (TPP) genes to source- and sink-related traits remain largely unknown. We used enrichment capture sequencing on TPS and TPP genes to estimate and partition the genetic variation of yield-related traits in a spring wheat breeding panel. Twelve phenotypes were correlated to variation in TPS and TPP genes including plant height and biomass (source), spikelets per spike, spike growth and grain filling traits (sink) which showed indications of both positive and negative gene selection. Individual genes explained proportions of heritability for biomass and grain-related traits. Three TPS1 homologues were particularly significant for trait variation. Gene-based prediction improved predictive ability for grain weight when gene effects were combined with the whole-genome markers. Our study has generated a wealth of information on natural variation of TPS and TPP
 genes related to yield potential which confirms the role for T6P in resource allocation and in affecting traits such as grain number and size confirming other studies which now opens up the possibility of harnessing natural genetic variation more widely to better understand the contribution of native genes to yield traits for incorporation into breeding programmes.
 
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/TPS1.png" width="600" height="400">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/TPS1.png" width="700" height="500">
 
 Figure 1. Trehalose Biosynthetic Pathway 
 
@@ -67,7 +67,7 @@ Quantitative genetics pipeline for the wheat Cadenza TILLING population
 **Abstract**
 The relative contribution of rare variants to quantitative genetic variation is largely unclear, despite recent advances in genomics. One reason for this is that natural populations tend to violate the assumptions of genome-wide association and genomic heritability models, with population structure and cryptic relatedness being particularly problematic. To eliminate these limitations, we performed quantitative genomic analyses in an experimental TILLING population of hexaploid wheat (~1100 lines) in which all chemically induced mutations were either rare or unique, starting with a (mostly) uniform genomic background. Using exome re-sequencing data, we partitioned the complete set of ~7M mutations into non-synonymous, synonymous, and non-coding sets, and then conducted association and variance component analyses for three phenotypic traits (i.e. plant height, flowering/heading time, and senescence). By scanning around 77K genes using several analytical approaches developed specifically for rare variants, we identified significant associations for all phenotypes, with most signals coming from non-synonymous and synonymous substitutions. A few well-known genes (e.g. FLOWERING LOCUS T), as well as many others were detected. In addition, up to a third of the variance for all traits could be explained by the cumulative effects of all mutations. We therefore expect that this approach will lead to the identification of candidate genes across a range of phenotypic traits and contribute to the development of novel analytical methodology, ultimately enhancing our understanding of the importance of rare variants in both natural and experimental populations.
 
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/TILLING.png" width="900" height="600">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/TILLING.png" width="800" height="500">
 
 Figure 1. Summary of the quantitative genetics' analysis of plant height in the wheat TILLING population
 
@@ -84,9 +84,9 @@ Breeding programs have traditionally focused on the aboveground parts of plants.
 Figure 1. Summary of the rhizosphere communities in wheat
 
 
-Multi-omic dissection and prediction of adaptive traits in willow (Salix viminalis L.)
+Multi-omic dissection and prediction of adaptive traits in willow (*Salix viminalis* L.)
 ---
-**Lyra, D.H**, Slavov,G., Ward, J, Hanley, S. Metabolome-based association of adaptive traits in Salix viminalis L. Unpublished.
+**Lyra, D.H**, Slavov,G., Ward, J, Hanley, S. Metabolome-based association of adaptive traits in *Salix viminalis* L. Unpublished.
 
 **Abstract**
 Willow (Salix viminalis L.) has been used as a bioenergy and biofuel crop across Europe and consists of many bioactive phytochemicals including antioxidants and anticancer. However, the genetic basis of the metabolic diversity has not been yet fully explored, particularly the causal effect of genetic variants on the phenotype acting via the metabolite. We used over sixteen thousand whole-genome variants and a set of candidate gene-derived markers targeting 113 genes to unlock the genetic architecture of hundreds of untargeted metabolites (from three quantification assays) and eight phenology traits in a diverse panel of 220 individuals.
