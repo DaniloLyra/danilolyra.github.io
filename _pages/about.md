@@ -65,5 +65,5 @@ I have been supporting the hybrid winter OSR breeding programs on the Biostatist
  - Performing data analysis for field trials and genetic analyses
  - Driving Innovation in the field of Genomic Selection 2.0, Hybrid prediction & Rapid Genomic Selection
  - Assisting in tool developments to speed up analysis & data summary processes
- - Assisting in the data curation in breeding data bases
+ - Assisting in the data curation in breeding data bases 
 
