@@ -10,7 +10,7 @@ redirect_from:
 Short CV
 ---
 
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/ChatGPT.png" width="850" height="850">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/ChatGPT_Confidential.png" width="850" height="850">
 
 
 Extended CV
@@ -36,8 +36,10 @@ Education
 
 Research/Professional experience
 ======
+* Sep/2023-Present ● Biometrics Scientist ● OSR Crop Lead ● Breeding & Technologies Application (BTA)
+  * **Key responsibilities**: Lead biometrics support for EMEA winter OSR breeding programs, including multi-environment trial analysis, deployment of genomic selection and hybrid prediction methodologies, and optimization of parental crosses. Partner closely with molecular breeding and pre-breeding teams to support disease trait analytics and Product Design initiatives. 
 
-* May/2021-present ● Biometrics Scientist ● Wheat Crop Lead ● Biometrics and Breeding Research
+* May/2021-Aug 2023 ● Biometrics Scientist ● Wheat Crop Lead ● Biometrics and Breeding Research
   * **Key responsibilities**: Biometrics support for winter wheat EMEA breeding programs. Implementation and support of experimental designs, multi-environment trial analysis, envirotyping, deployment of predictive methodologies such as genomic selection, optimization of crossing blocks, and heterotic pool formation.
 
 * 2018-April/2021 ● Post-Doctoral Research ● Wheat Genomics
