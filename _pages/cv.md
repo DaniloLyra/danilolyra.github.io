@@ -10,7 +10,7 @@ redirect_from:
 Short CV
 ---
 
-<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/ChatGPT.png" width="650" height="800">
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/ChatGPT.png" width="750" height="850">
 
 
 Extended CV
