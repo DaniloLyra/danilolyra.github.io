@@ -14,18 +14,20 @@ redirect_from:
 
 Research Expertise & Core Skills
 ======
--	Applied Crop Breeding (experience in Potato, Maize, and Wheat)
--	Biometrics, Quantitative Genetics & Statistical Genetics 
+-	Applied Crop Breeding (proven experience with Potato, Maize, Wheat, and Oilseed rape)
+-	Biometrics, Quantitative Genetics & Statistical Genetics
+-	Breeding Analytics, Decision-support Tools & Data-driven Breeding Strategies
 -	Experimental Design & Analysis of Breeding Trials (Mixed, Multivariate, Spatial, and G×E models)
--	Predictive Breeding (Genomic Selection Modelling & Hybrid Prediction)
--	High-throughput Plant Phenotyping (Image Data Integration in Genomic Models)
--	Envirotyping analytics (Environmental Covariables Integration for Improving Breeding Efficiency) 
--	Marker-trait and gene-trait discovery (QTL mapping, GWAS, Gene-based models)
+-	Predictive Breeding (Genomic Selection & Hybrid Prediction)
+-	High-throughput Plant Phenotyping & Image-based Data Integration
+-	Envirotyping Analytics & Environmental Data Integration
+-	Marker-trait Discovery (QTL mapping, GWAS, Gene-based mapping, RNA-seq)
+
 
 
 About me
 ======
-Danilo is a crop quantitative geneticist, statistical geneticist, and biometrician. He holds an M.S. and Ph.D. degree in Genetics and Plant Breeding having an extensive background in potato, maize, and wheat applied breeding, genetics, and genomics. Danilo has a research background in classical field-based breeding activities, and experience in modern statistical genomics approaches where he focuses on understanding the genetic architecture of quantitative traits for accelerating the discovery and deployment of genes and alleles of high value for breeding. Briefly, his expertise is Statistics, Biometrics, Quantitative Genetics, Population Genomics, Association Studies, Genomic Selection, High-throughput Phenomics, and Applied Plant Breeding. He received professional training at Iowa State University ([Jianming Yu](https://sites.google.com/site/quantitativegeneticsmaize/home)) and CIMMYT-Mexico ([Jose Crossa](https://www.cimmyt.org/people/jose-crossa/)). Previously, he looked at several genomic selection approaches (*i*) including multi-trait models (Lyra *et al.* 2017), (*ii*) controlling population structure (Lyra *et al.* 2018), and (*iii*) incorporating dominance and copy number variation effects (Lyra *et al.* 2019) in maize hybrids. He has worked as a research scientist (2018-2021) at [Rothamsted Research](https://www.rothamsted.ac.uk/our-people/danilo-lyra)  with extensive collaborations in the [Designing Future Wheat programme/UK](https://designingfuturewheat.org.uk/). He was leading many projects in the Quantitative Genetics group such as (*i*) combining high-throughput plant phenotyping and molecular genetics for trait dissection ([Lyra *et al.* 2020](https://academic.oup.com/jxb/article/71/6/1885/5757976) & [Virlet *et al.* 2022](https://shop.bdspublishing.com/store/bds/detail/workgroup/3-190-109524)), (*ii*) gene-based mapping of trehalose biosynthetic pathway genes for source- and sink-related traits in a Biomass Panel (HIBAP) – in collaboration with Paul/RRes and Reynolds/CIMMYT ([Lyra *et al.* 2021](https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.292)), (*iii*) development of a quantitative genetics pipeline for the wheat TILLING population – in collaboration with Andy Phillips/RRes and Cristobal Uauy/JIC, (*iv*) integration of genomic and metagenomic data (e.g. rhizosphere microbiomes) for trait dissection (BBSCR pump-priming grant). Currently, he has been working on developing, implementing, and supporting data analysis tasks and tools at KWS SAAT SE & Co. KGaA for oilseed rape (OSR) breeding program in the BTA department.
+Danilo is a crop quantitative geneticist, statistical geneticist, and biometrician. He holds an M.S. and Ph.D. degree in Genetics and Plant Breeding having an extensive background in potato, maize, wheat, and oilseed rape applied breeding, genetics, and genomics. Danilo has a research background in classical field-based breeding activities, and experience in modern statistical genomics approaches where he focuses on understanding the genetic architecture of quantitative traits for accelerating the discovery and deployment of genes and alleles of high value for breeding. Briefly, his expertise is Statistics, Biometrics, Quantitative Genetics, Population Genomics, Association Studies, Genomic Selection, High-throughput Phenomics, and Applied Plant Breeding. He received professional training at Iowa State University ([Jianming Yu](https://sites.google.com/site/quantitativegeneticsmaize/home)) and CIMMYT-Mexico ([Jose Crossa](https://www.cimmyt.org/people/jose-crossa/)). Previously, he looked at several genomic selection approaches (*i*) including multi-trait models (Lyra *et al.* 2017), (*ii*) controlling population structure (Lyra *et al.* 2018), and (*iii*) incorporating dominance and copy number variation effects (Lyra *et al.* 2019) in maize hybrids. He has worked as a research scientist (2018-2021) at [Rothamsted Research](https://www.rothamsted.ac.uk/our-people/danilo-lyra)  with extensive collaborations in the [Designing Future Wheat programme/UK](https://designingfuturewheat.org.uk/). He was leading many projects in the Quantitative Genetics group such as (*i*) combining high-throughput plant phenotyping and molecular genetics for trait dissection ([Lyra *et al.* 2020](https://academic.oup.com/jxb/article/71/6/1885/5757976) & [Virlet *et al.* 2022](https://shop.bdspublishing.com/store/bds/detail/workgroup/3-190-109524)), (*ii*) gene-based mapping of trehalose biosynthetic pathway genes for source- and sink-related traits in a Biomass Panel (HIBAP) – in collaboration with Paul/RRes and Reynolds/CIMMYT ([Lyra *et al.* 2021](https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.292)), (*iii*) development of a quantitative genetics pipeline for the wheat TILLING population – in collaboration with Andy Phillips/RRes and Cristobal Uauy/JIC, (*iv*) integration of genomic and metagenomic data (e.g. rhizosphere microbiomes) for trait dissection (BBSCR pump-priming grant). Currently, he has been working on developing, implementing, and supporting data analysis tasks and tools at KWS SAAT SE & Co. KGaA for oilseed rape (OSR) breeding program in the BTA department.
 
 Bachelor’s degree (2008-2011)
 ======
@@ -45,7 +47,7 @@ Research Scientist ● Rothamsted Research, UK (2018-2020)
 ======
 As a quantitative geneticist, I was engaged in many projects as leading investigator. I was part of the collaboration with the [Designing Future Wheat (DFW) programme](https://designingfuturewheat.org.uk/). Briefly, I had four main projects, including (i) developing robust statistical and prediction strategies using the data from the [Field Scanalyzer phenotyping platform](https://www.rothamsted.ac.uk/field-scanalyzer) (in collaboration with Malcolm Hawkesford) ([Lyra et al. 2020](https://academic.oup.com/jxb/article/71/6/1885/5757976)), (ii) implementing gene-based models using exome-capture data of trehalose biosynthetic pathway genes in collaboration with Paul/RRes and Reynolds/CIMMYT ([Lyra *et al.* 2021](https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.292)), (iii) integrating genomic and metagenomic data for trait dissection (FAPESP-BBSRC Pump-Priming grant - in collaboration with Tim Mauchline), and iv) developing a quantitative genetics pipeline for the wheat Cadenza TILLING population (in collaboration with Andy Phillips and Cristobal Uauy-JIC). **See [Research](https://danilolyra.github.io/research/) for more details about the projects. For more details, check my Talk at ["Genetics and Plant Breeding Virtual Symposium (INTERGEN) - Corteva Agriscience Plant Sciences Symposia Series"](https://www.youtube.com/watch?v=5BMfFuuqOW4&ab_channel=InterGen)
 
-Biometrics Scientist ● Wheat Crop Lead ● Biometrics and Breeding Research ● BASF Agricultural Solutions, Gent, Belgium (2021-2023)
+Biometrics Scientist ● Wheat Crop Lead ● Biometrics and Breeding Research ● BASF Agricultural Solutions, Gent, Belgium (May 2021 - Aug. 2023)
 ======
 I have supported the hybrid winter wheat EMEA breeding programs on the experimental designs, multi-environment trial analysis, envirotyping analytics, deployment of predictive methodologies (genomic selection, marker-assisted selection), optimization of crossing blocks (male and female pools), and heterotic pool formation. I have implemented quantitative genetic approaches in the wheat breeding in collaboration with breeders to increase selection gain. Therefore, I supported wheat breeders in using breeding data analysis tools and in the interpretation and usage of the statistical data analysis pipelines. I have lead the implementation of a pipeline for Product Profile Tool. 
 
@@ -56,9 +58,11 @@ I have supported the hybrid winter wheat EMEA breeding programs on the experimen
  - Supporting the Predictive Breeding project (genomic selection and marker-assisted selection)
  - Delivering KPIs to measure the Genetic Gain of the breeding programs
 
-Research Scientist ● Oilseed Rape ● RD-MAOC-BTA ● KWS SAAT SE, Einbeck, Germany (2021-2023)
+**Manager**: Fabiano Pita (Biometrics & Breeding Research)
+
+Advanced Scientist ● Oilseed Rape ● RD-MAOC-BTA ● KWS SAAT SE, Einbeck, Germany (Sep 2023 - Present)
 ======
-I have been supporting the hybrid winter OSR breeding programs on the Biostatistics and Breeding Information.
+I have been supporting the EMEA winter OSR breeding programs, including multi-environment trial analysis, deployment of genomic selection and hybrid prediction methodologies, and optimization of parental crosses. Partner closely with molecular breeding and pre-breeding teams to support disease trait analytics for accelerating the discovery and deployment of genes and alleles of high value for breeding. 
 
 **Key responsibilities**:
  - Supporting two hybrid OSR breeding programs in collaboration with breeders (France and Germany)
@@ -67,3 +71,4 @@ I have been supporting the hybrid winter OSR breeding programs on the Biostatist
  - Assisting in tool developments to speed up analysis & data summary processes
  - Assisting in the data curation in breeding data bases 
 
+**Manager**: Sofia da Silva (Biostatistics, Maize and Oilseed Crops)
