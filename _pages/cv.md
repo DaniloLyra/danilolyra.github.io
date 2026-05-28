@@ -21,6 +21,7 @@ Personal Information
 - Male, Brazilian (also has Italian Citizenship)
 - I like playing sports and running
 - Lived in many countries (Brazil --> USA --> UK --> Belgium --> Germany)
+- Enjoy going to Heavy Metal concerts
 
 Education
 ======
