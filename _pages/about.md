@@ -60,7 +60,7 @@ I have supported the hybrid winter wheat EMEA breeding programs on the experimen
 
 **Manager**: Fabiano Pita (Biometrics & Breeding Research)
 
-Advanced Scientist ● Oilseed Rape ● RD-MAOC-BTA ● KWS SAAT SE, Einbeck, Germany (Sep 2023 - Present)
+Advanced Scientist ● Oilseed Rape ● RD-MAOC-BTA ● KWS SAAT SE & Co. KGaAE, Einbeck, Germany (Sep 2023 - Present)
 ======
 I have been supporting the EMEA winter OSR breeding programs, including multi-environment trial analysis, deployment of genomic selection and hybrid prediction methodologies, and optimization of parental crosses. Partner closely with molecular breeding and pre-breeding teams to support disease trait analytics for accelerating the discovery and deployment of genes and alleles of high value for breeding. 
 

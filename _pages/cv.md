@@ -7,6 +7,14 @@ redirect_from:
   - /resume
 ---
 
+Short CV
+---
+
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/ChatGPT.png" width="650" height="800">
+
+
+Extended CV
+
 Personal Information
 ======
 - Male, Brazilian (also has Italian Citizenship)
@@ -41,7 +49,7 @@ Research/Professional experience
 
 * 2017 ● Training Research, Collaboration ● CIMMYT, Texcoco, Mexico
   * **Manager**: [Jose Crossa](https://scholar.google.com.mx/citations?user=MsMBKCUAAAAJ&hl=en) 
-  * **Key responsibilities**: one-month training. Technical visits to field trials. Molecular data analyzes using genotype × environment interaction models
+  * **Key responsibilities**: Technical visits to field trials. Molecular data analyzes using genotype × environment interaction models
   * **Research project**: Genomic selection for nitrogen and drought stress in maize and wheat
     
 * 2015-2016 ● Training Research, Collaboration ● Iowa State University, Ames, United States
