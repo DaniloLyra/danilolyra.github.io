@@ -31,3 +31,7 @@ Fig. 6. Teosinte (Z. mays ssp. parviglumis), a group of wild relatives of maize.
 <img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/Pot2.JPG" width="600" height="300">
 
 Fig. 7. Potato Field Trial - Formiga/MG/Brazil (2012).  Photo by: Lyra
+
+<img src="https://raw.githubusercontent.com/DaniloLyra/danilolyra.github.io/master/images/MZ3.JPG" width="600" height="300">
+
+Fig. 8. Maize Field Trial - Ames/Iowa/USA (2015).  Photo by: Lyra
