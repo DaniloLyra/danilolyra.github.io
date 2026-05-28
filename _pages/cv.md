@@ -17,8 +17,10 @@ Extended CV
 
 Personal Information
 ======
+- From 89 (good year to be born)
 - Male, Brazilian (also has Italian Citizenship)
-- I like playing sports and running.
+- I like playing sports and running
+- Lived in many countries (Brazil --> USA --> UK --> Belgium --> Germany)
 
 Education
 ======
@@ -36,7 +38,7 @@ Education
 
 Research/Professional experience
 ======
-* Sep/2023-Present ● Biometrics Scientist ● OSR Crop Lead ● Breeding & Technologies Application (BTA)
+* Sep/2023-Present ● Advanced Scientist ● OSR Crop Lead ● Breeding & Technologies Application (BTA)
   * **Key responsibilities**: Lead biometrics support for EMEA winter OSR breeding programs, including multi-environment trial analysis, deployment of genomic selection and hybrid prediction methodologies, and optimization of parental crosses. Partner closely with molecular breeding and pre-breeding teams to support disease trait analytics and Product Design initiatives. 
 
 * May/2021-Aug 2023 ● Biometrics Scientist ● Wheat Crop Lead ● Biometrics and Breeding Research
@@ -56,7 +58,7 @@ Research/Professional experience
     
 * 2015-2016 ● Training Research, Collaboration ● Iowa State University, Ames, United States
   * **Manager**: [Jianming Yu](https://www.ipb.iastate.edu/people/jianming-yu)  
-  * **Key responsibilities**: ten months training. Evaluation of sorghum and maize field trials. Analyses of population genomics (fineSTRUCTURE, ADMIXTURE, MG-GBLUP, rrBLUP, linkage disequilibrium)
+  * **Key responsibilities**: Evaluation of sorghum and maize field trials. Analyses of population genomics (fineSTRUCTURE, ADMIXTURE, MG-GBLUP, rrBLUP, linkage disequilibrium)
   * **Research project**: Genomic selection for structured population in maize
   
 * 2014-2017 ● Ph.D. Research ● Maize Breeding and Genomics
@@ -86,7 +88,7 @@ Most relevant training courses attended
 * [Analysis of Experiments using ASReml-R](https://www.biostatsgen.com/uploads/3/8/9/6/38964623/alldiap_august2014.pdf). Tutor: Salvador Gezan (University of Florida). In: University of Sao Paulo, Brazil / 16h / 2015.1
 * [Bayes Biostatistics](http://www.esalq.usp.br/departamentos/lce/arquivos/aulas/2014/WORKSHOP_ON_BAYESIAN_BIOSTATISTICS/Bayesian_course_main_part%201.pdf). Tutor: Emmanuel Lesaffre (University Hasselt). In: University of Sao Paulo, Brazil / 45h / 2014
 
-Main Ad Hoc Reviewer (verified by [Publons]("https://www.webofscience.com/wos/author/record/336660"))
+Main Ad Hoc Reviewer
 ======
 - Agronomy (Topic Editor)
 - Plos One
@@ -94,12 +96,13 @@ Main Ad Hoc Reviewer (verified by [Publons]("https://www.webofscience.com/wos/au
 - Crop Science
 - Euphytica
 
-Programming skills
+Programming & Analytics:
 ======
-- Proficient user of statistical programs (R, Linux, ASReml-R, PLINK, GCTA)
+- R, Python, Shiny, Linux, ASReml-R, BGLR-R, GCTA, Galaxy, PowerBI, and Spotfire 
 
 Main recent conference attended with poster presentation
 ======
+- 16th International Rapeseed Congress, Sydney, Australia. 2023
 -	XVIIIth Eucarpia Biometrics in Plant Breeding Conference, Paris, France. 2022
 -	Monogram-Cereals & Grasses Research Network, Leeds, UK. 2022
 -	6th International Conference of Quantitative Genetics (ICQG6). 2020
@@ -125,6 +128,7 @@ Languages
 - English: Advanced. Score 86/120 in "Test of English as a Foreign Language" (ETS-TOEFL iBT). Score 7 in IELTS/Academic (International English Language Testing System).
 - Spanish: Intermediate level
 - Italian: Beginning level
+- German: A2 level
 
 Skills
 ======
